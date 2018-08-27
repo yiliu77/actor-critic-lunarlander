@@ -5,4 +5,4 @@ Actor critic algorithm with experience replay.
 
 # Rewards
 After 400,000 games:
-![picture](img/test1.png)
+![picture](img/test1.jpg)
